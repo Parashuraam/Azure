@@ -1,1 +1,1 @@
-# azure4everyone-samples
+# azure cli samples
